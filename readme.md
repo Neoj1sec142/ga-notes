@@ -3,9 +3,20 @@
 ***   
 ### Basics:   
 [MarkDown](./basics/markdown.md)   
+[Mac Dev Terminal](./basics/terminal.md) 
 [HTML Index](./basics/html.md)   
-[CSS Index](./basics/css.md)   
-[JS Index](./basics/js.md)   
+[CSS Notes](./basics/css.md) 
+## JS:  
+[JS APIs](./basics/js/apis.md)     
+[JS Arrays](./basics/js/arrays.md)     
+[JS DOM](./basics/js/DOM.md)     
+[JS ES6](./basics/js/es6.md)     
+[JS Events](./basics/js/events.md)     
+[JS Control Flow](./basics/js/flow.md)     
+[JS Functions](./basics/js/funct.md)     
+[JS HOFun](./basics/js/hof.md)     
+[JS Objects](./basics/js/objects.md)     
+[JS OOP](./basics/js/OOP.md)     
 ***   
 ### Django:   
 [Django Index](./django/index.md)   
