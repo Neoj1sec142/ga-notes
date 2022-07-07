@@ -9,8 +9,12 @@
     * [] OOP 6
 ***    
 ## Friday   
+1. [] - Really build Meres Django Project
+2. [] - Do 1-2 CSPy videos
 ***   
 ## Saturday   
+1. [] Finish Up Java
+2. [] Start C in Codex
 ***   
 ## Sunday   
 ***   

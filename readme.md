@@ -1,5 +1,6 @@
 ## General Assembly Lessons Index:
-- This will be pushed to a repo named 'GA' for all intro and necessary lessons from class.
+- This will be pushed to a repo named 'GA' for all intro and necessary lessons from class.   
+[TODO List](./TODO.md)   
 ***   
 ### Basics:   
 [MarkDown](./basics/markdown.md)   
@@ -106,3 +107,6 @@
 [RAWG](./ga/vue/RAWG.md)    
 [Router](./ga/vue/router.md)    
 [State](./ga/vue/state.md)    
+***    
+## NON GA Note Links:
+[Corey Shafer Python Notes](../python/py_practice/csPy/TOC.md)
