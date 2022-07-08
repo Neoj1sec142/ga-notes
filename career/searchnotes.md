@@ -1,3 +1,6 @@
+## LinkedIn Opening Networking Message:
+Hi [recipient-name], I just came across your content on LinkedIn and I found it very beneficial. I'm really interested in the [role] and I'd love to connect and know more about your journey into [role] and if theres any open positions.
+
 ## Experience That Would've Helped the Job Hunt:
 
 * Object-oriented programming (TypeScript, C#, etc.).
